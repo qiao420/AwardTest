@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="473b9c89-d51f-499e-9da0-1da652e2f727" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../soft/maven/maven/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="E:\soft\maven\maven\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IIIt3q1bcXn5iyqPGr8aYypC7m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/java/新建文件夹/myBookManager/myBookManager",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\ideaProject\myBookManager\src\main\java\com" />
+      <recent name="D:\java\ideaProject\myBookManager\src" />
+      <recent name="D:\java\ideaProject\myBookManager\lib" />
+      <recent name="D:\java\ideaProject\myBookManager\picture" />
+      <recent name="D:\java\ideaProject\myBookManager\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\ideaProject\myBookManager\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.JFrame" />
+      <recent name="com.dao" />
+      <recent name="com.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoginFrm">
+    <configuration name="AdminBookAdd (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JFrame.AdminBookAdd" />
+      <module name="myBookManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JFrame.AdminUserInfo" />
+      <module name="myBookManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFrm" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JFrame.LoginFrm" />
+      <module name="myBookManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Manager_Login" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Manager_Login" />
+      <module name="myBookManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegFrm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JFrame.RegFrm" />
+      <module name="myBookManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserBorrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JFrame.UserBorrow" />
+      <module name="myBookManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JFrame.UserReturn" />
+      <module name="myBookManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginFrm" />
+      <item itemvalue="Application.Manager_Login" />
+      <item itemvalue="Application.UserReturn" />
+      <item itemvalue="Application.AdminUserInfo" />
+      <item itemvalue="Application.RegFrm" />
+      <item itemvalue="Application.UserBorrow" />
+      <item itemvalue="Application.AdminBookAdd (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserReturn" />
+        <item itemvalue="Application.AdminBookAdd (1)" />
+        <item itemvalue="Application.AdminUserInfo" />
+        <item itemvalue="Application.RegFrm" />
+        <item itemvalue="Application.UserBorrow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="473b9c89-d51f-499e-9da0-1da652e2f727" name="Changes" comment="" />
+      <created>1669862885442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669862885442</updated>
+      <workItem from="1669862886998" duration="1494000" />
+      <workItem from="1670381202988" duration="11490000" />
+      <workItem from="1670422925605" duration="8738000" />
+      <workItem from="1670482619838" duration="3103000" />
+      <workItem from="1670486136757" duration="21488000" />
+      <workItem from="1670584046003" duration="30953000" />
+      <workItem from="1670726538224" duration="13025000" />
+      <workItem from="1670759307903" duration="12096000" />
+      <workItem from="1670820972422" duration="25291000" />
+      <workItem from="1670986582550" duration="4000" />
+      <workItem from="1670986627146" duration="647000" />
+      <workItem from="1671097396837" duration="4889000" />
+      <workItem from="1671104062929" duration="2943000" />
+      <workItem from="1671107302562" duration="2390000" />
+      <workItem from="1671178656990" duration="2216000" />
+      <workItem from="1671948460210" duration="1027000" />
+      <workItem from="1671949512819" duration="1603000" />
+      <workItem from="1671963935614" duration="52000" />
+      <workItem from="1672155585144" duration="228000" />
+      <workItem from="1672194009619" duration="2691000" />
+      <workItem from="1672201522837" duration="1361000" />
+      <workItem from="1675005546040" duration="554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
